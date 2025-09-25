@@ -12,16 +12,16 @@ if ($sicaklik !== null && $nem !== null) {
     if (preg_match('/^\d+(\.\d+)?$/', $sicaklik) && preg_match('/^\d+(\.\d+)?$/', $nem)) {
 
         $zaman = date("Y-m-d H:i:s");
-        $satir = "[$zaman] Sıcaklık: $sicaklik °C | Nem: $nem %\n";
+        $satir = "[$zaman] Sicaklik: $sicaklik °C | Nem: $nem %\n";
 
         // Veriyi log dosyasına yaz
         file_put_contents("kevser.txt", $satir, FILE_APPEND | LOCK_EX);
 
-        echo "Veri alındı: $satir";
+        echo "Veri alindi: $satir";
 
     } else {
         // Eğer sayı değilse giriş reddedilir
-        echo "Hatalı veri formatı!";
+        echo "Hatali veri formati!";
     }
 
 } else {

@@ -16,7 +16,7 @@ void setup() {
 
   sendAT("AT", 1000);
   sendAT("AT+SAPBR=3,1,\"CONTYPE\",\"GPRS\"", 1000);
-  sendAT("AT+SAPBR=3,1,\"APN\",\"vodafone\"", 1000); // APN: operatöre göre değişir
+  sendAT("AT+SAPBR=3,1,\"APN\",\"vodafone\"", 1000); 
   sendAT("AT+SAPBR=1,1", 3000);
 
   // GPRS bağlantı kontrol
