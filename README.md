@@ -51,7 +51,6 @@ Bu proje, internet kablosu veya Wi-Fi erişimi olmayan izole bölgelerde çevres
 <p align="center">
   <!-- Resmi sürükle-bırak yaptığında GitHub'ın vereceği linki buradaki src kısmına yapıştırabilirsin -->
 <img width="1884" height="843" alt="Ekran görüntüsü 2025-10-10 101302" src="https://github.com/user-attachments/assets/ed7986d8-a835-4e48-a4e9-b68b7d652bcf" />
-<img width="1893" height="624" alt="Ekran görüntüsü 2025-10-10 101313" src="https://github.com/user-attachments/assets/60095953-371e-4654-87be-367aff58f303" />
   <br/><em>Tarih aralığı seçici, kritik sıcaklık uyarı bildirimi ve filtrelenmiş telemetri tablosu</em>
 </p>
 
