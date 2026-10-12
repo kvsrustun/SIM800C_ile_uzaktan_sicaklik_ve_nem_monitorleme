@@ -1,14 +1,13 @@
 # 🌐 SIM800C GSM/GPRS ile Uzaktan Sıcaklık ve Nem Monitörleme
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Donanım-Deneyap%20Kart-007acc?style=for-the-badge&logo=espressif&logoColor=white" alt="Donanım" />
-  <img src="https://img.shields.io/badge/GSM%20Modülü-SIM800C%20GPRS-e11d48?style=for-the-badge" alt="GSM" />
-  <img src="https://img.shields.io/badge/Sensör-Sıcaklık%20%26%20Nem-059669?style=for-the-badge" alt="Sensör" />
-  <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Dashboard-Python%20%26%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-brightgreen?style=for-the-badge" alt="Lisans" />
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/Donan%C4%B1m-Deneyap%20Kart%20(ESP32)-24292e?style=flat-square&logo=espressif" alt="Donanım" /></a>
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/GSM%20Mod%C3%BCl%C3%BC-SIM800C%20GPRS-24292e?style=flat-square" alt="GSM" /></a>
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/Sens%C3%B6r-S%C4%B1cakl%C4%B1k%20%26%20Nem-24292e?style=flat-square" alt="Sensör" /></a>
+  <a href="#yazilim-mimarisi"><img src="https://img.shields.io/badge/Backend-PHP%20API-24292e?style=flat-square&logo=php" alt="PHP" /></a>
+  <a href="#yazilim-mimarisi"><img src="https://img.shields.io/badge/Dashboard-Python%20%26%20Streamlit-24292e?style=flat-square&logo=streamlit" alt="Streamlit" /></a>
+  <a href="#lisans"><img src="https://img.shields.io/badge/Lisans-MIT-24292e?style=flat-square" alt="Lisans" /></a>
 </p>
-
 > **Wi-Fi veya sabit internet altyapısının bulunmadığı tarım, sera ve açık saha alanlarında;** Deneyap Kart ve **SIM800C GSM/GPRS** modülü üzerinden hücresel veriyle uzak sunucuya aktarılan telemetri verilerinin, **Python (Streamlit)** tabanlı interaktif web kokpitinde anlık grafikler ve anomali uyarılarıyla canlı izlenmesini sağlayan uçtan uca IoT izleme sistemi.
 
 ---
